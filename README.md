@@ -1,18 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**lubanproj/lubanproj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ I'm lubanproj, a gopher , also a java and javascript engineer ✨
 
-Here are some ideas to get you started:
+- 🌱 I’m currently thinking the meaning of life 
+- 🤔 Go | Java | Javascript 
+- 💬 @lubanclub @learnitwell @gorpc
+- 📫 you can reach me at 1811704358@qq.com
+- 😄 wish happy work everyday
+- ⚡ ohhhhhh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lubanproj&show_icons=true&theme=vue"/>
 
-![](https://github-readme-stats.vercel.app/api?username=lubanproj)
+<img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" weight="200px" height="200px"/>
+</div>
+
