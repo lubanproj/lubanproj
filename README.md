@@ -8,7 +8,7 @@
 - 😄 Graduated from Wuhan University
 - 🤔 Worked at @Alibaba and @Tencent in the past few years
 - 💬 @lubanclub @learnitwell @gorpc
-- 📫 You can reach me at 1811704358@qq.com
+- 📫 You can reach me at 1912672432@qq.com
 - ⚡ Go | Java | Javascript 
 
 <div align="center">
