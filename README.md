@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently thinking the meaning of life 
 - 😄 Graduated from Wuhan University
-- 🤔 Worked at Alibaba and Tencent in the past four years
+- 🤔 Worked at @Alibaba and @Tencent in the past few years
 - 💬 @lubanclub @learnitwell @gorpc
 - 📫 You can reach me at 1811704358@qq.com
 - ⚡ Go | Java | Javascript 
