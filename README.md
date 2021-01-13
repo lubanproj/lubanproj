@@ -5,11 +5,11 @@
 ### ✨ I'm lubanproj, a gopher , also a java and javascript engineer ✨
 
 - 🌱 I’m currently thinking the meaning of life 
-- 🤔 Go | Java | Javascript 
+- 😄 Graduated from Wuhan University
+- 🤔 Worked at Alibaba and Tencent in the past four years
 - 💬 @lubanclub @learnitwell @gorpc
-- 📫 you can reach me at 1811704358@qq.com
-- 😄 wish happy work everyday
-- ⚡ ohhhhhh
+- 📫 You can reach me at 1811704358@qq.com
+- ⚡ Go | Java | Javascript 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lubanproj&show_icons=true&theme=vue" align="center"/>
