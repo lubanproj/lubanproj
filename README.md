@@ -2,7 +2,7 @@
 	
 ## Hi there 👋
 
-![](https://github.com/lubanproj/lubanproj/tree/main/assets/header.png)	
+![](https://github.com/lubanproj/lubanproj/blob/main/assets/header.png)	
 	
 ### ✨ I'm lubanproj, a gopher , also a java and javascript engineer ✨
 
