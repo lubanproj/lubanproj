@@ -2,6 +2,8 @@
 	
 ## Hi there 👋
 
+![](https://github.com/lubanproj/lubanproj/tree/main/assets/header.png)	
+	
 ### ✨ I'm lubanproj, a gopher , also a java and javascript engineer ✨
 
 - 🌱 I’m currently thinking the meaning of life 
