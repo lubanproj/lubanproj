@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently thinking the meaning of life 
 - 😄 Graduated from Wuhan University
-- 🤔 Worked at @Alibaba and @Tencent @Huawei 2012 Laboratory in the past few years
+- 🤔 Worked at @Alibaba @Tencent @Huawei 2012 Laboratory in the past few years
 - 💬 @lubanclub @learnitwell @gorpc
 - ⚡ Go | Java | Javascript 
 
